@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\bin\Debug\phase1-selection.exe.config
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\bin\Debug\phase1-selection.exe
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\bin\Debug\phase1-selection.pdb
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\obj\Debug\phase1-selection.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\obj\Debug\phase1-selection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\obj\Debug\phase1-selection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\obj\Debug\phase1-selection.exe
+C:\Users\Admin\source\repos\phase1-selection\phase1-selection\obj\Debug\phase1-selection.pdb
